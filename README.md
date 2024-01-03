@@ -1,1 +1,1 @@
-Explore the financial landscape of Adidas through a comprehensive analysis and visualization of Profit and Loss (P&L) statements leveraging Bloomberg data. This project delves into dissecting Adidas' financial performance, shedding light on key insights and trends using advanced analytical tools.
+The project aims to provide a comprehensive breakdown of Adidas' financial health via P&L analysis using Bloomberg data. The analysis delves into various aspects of the company's financials, including revenue streams, cost structures, and net income over a specified timeframe.
