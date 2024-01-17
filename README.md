@@ -1,1 +1,0 @@
-Dive into the financial landscape of Adidas through an intricate analysis and visualization of Profit and Loss (P&L) statements using Bloomberg data. This advanced Excel project dissects Adidas' financial performance, leveraging Bloomberg's robust datasets for in-depth insights into revenue, expenses, and overall profitability.
